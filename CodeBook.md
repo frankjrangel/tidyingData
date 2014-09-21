@@ -4,7 +4,7 @@
 2. Extracted files to folder "Proyect"  
 3. Set working directory in RStudio to "Proyect"  
 4. Read necesary files and store them in variables the following way:  
-    ```
+    ```R
     test_x <- read.table("getdata-projectfiles-UCI HAR Dataset/UCI HAR Dataset/test/X_test.txt")  
     test_y <- read.table("getdata-projectfiles-UCI HAR Dataset/UCI HAR Dataset/test/y_test.txt")  
     test_subject <- read.table("getdata-projectfiles-UCI HAR Dataset/UCI HAR Dataset/test/subject_test.txt")  
