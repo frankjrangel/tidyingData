@@ -2,7 +2,7 @@
 
 1. Downloaded files from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
 2. Extracted files to folder "Proyect"  
-3. Set working directory in RStudio to "Proyect"  
+3. Set working directory in RStudio to "Proyect"
 4. Read necesary files and store them in variables the following way:  
     ```R
     test_x <- read.table("getdata-projectfiles-UCI HAR Dataset/UCI HAR Dataset/test/X_test.txt")  
