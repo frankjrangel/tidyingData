@@ -12,7 +12,7 @@
     train_x <- read.table("getdata-projectfiles-UCI HAR Dataset/UCI HAR Dataset/train/X_train.txt")  
     train_y <- read.table("getdata-projectfiles-UCI HAR Dataset/UCI HAR Dataset/train/y_train.txt")  
     train_subject <- read.table("getdata-projectfiles-UCI HAR Dataset/UCI HAR Dataset/train/subject_train.txt")  
-
+    ```
     Variables description:  
     test_x: Measurements from test dataset  
     test_y: Activities for the measurements in test_x  
@@ -20,7 +20,7 @@
     train_x: Measurements from train dataset  
     train_y: Activities for the measurements in train_x  
     train_subject: Subjects for the measurements in train_x  
-    ```
+    
 5. Read variable names from features.txt and set up list to set column names later:  
     
     variables <- read.table("getdata-projectfiles-UCI HAR Dataset/UCI HAR Dataset/features.txt")  
