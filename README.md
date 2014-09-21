@@ -10,6 +10,6 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 The data cleaning process made to Human Activity Recognition Using Smartphones Dataset was done with run_analysis.R script.
 For it to work you must run the script from the folder where the files are extracted.
-After the script runs you will get the tidy data as tidy_data.txt in the same folder the data files were extracted
+After the script runs you will get the tidy data as tidy_data.txt in the same folder the data files were extracted.
 
 To read the file to R use read.table("tidy_data.txt", header=TRUE)
