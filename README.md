@@ -1,9 +1,9 @@
 #Course proyect for Coursera course "Getting and Cleaning Data"
-##Student: Francisco Rangel
+####Student: Francisco Rangel
 
 The purpose of this proyect was to make an R script that generates a tidy dataset according to the following instructions:
 
-1.Merge the training and the test sets to create one data set.
+1.Merge the training and the test sets to create one data set.  
 2.Extract only the measurements on the mean and standard deviation for each measurement. 
 3.Use descriptive activity names to name the activities in the data set
 4.Appropriately label the data set with descriptive variable names. 
