@@ -74,3 +74,5 @@ for (i in 1:length(tidy_data[,1])) {
     tidy_data[i,81] <- "Lying"
   }
 }
+
+write.table(tidy_data, "tidy_data.txt", row.name=FALSE)
