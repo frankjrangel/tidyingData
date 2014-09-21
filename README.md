@@ -13,3 +13,5 @@ For it to work you must run the script from the folder where the files are extra
 After the script runs you will get the tidy data as tidy_data.txt in the same folder the data files were extracted.
 
 To read the file to R use read.table("tidy_data.txt", header=TRUE)
+
+The process is described in CodeBook.md
