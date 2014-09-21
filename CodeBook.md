@@ -37,6 +37,8 @@
 12. Change activity numbers 1, 2, 3, 4, 5, 6 for names "Walking", "Walking upstairs", "Walking downstairs", "Sitting", "Standing" and "Laying" respectively  
 13. Print out tidy data set as tidy_data.txt file
 
+###Info about tidy_data.txt
+
 Number of observations: 150
 Number of columns: 81
 
