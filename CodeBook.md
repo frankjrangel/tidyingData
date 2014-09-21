@@ -39,7 +39,7 @@
 
 ###Info about tidy_data.txt
 
-Number of observations: 150
+Number of observations: 150  
 Number of columns: 81
 
 Columns and Variable names  
