@@ -40,7 +40,7 @@
 Number of observations: 150
 Number of columns: 81
 
-Col Variable name  
+Columns and Variable names  
 1   tBodyAcc-mean()-X  
 2   tBodyAcc-mean()-Y  
 3   tBodyAcc-mean()-Z  
@@ -123,6 +123,5 @@ Col Variable name
 80  subject  
 81  activity   
 
-5.Details about the data: columns in which specific variables can be found, whether they are character or numeric, and if numeric, what format.
 
 
